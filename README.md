@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Penguinlips
 - 🌱 I’m currently learning Networking and Web Application Pentesting
 - 👯 I’m looking to collaborate on Pentesting tools
-- 🤔 I’m looking for help with Python
+- 🤔 I’m looking for help with Web Application Pentesting
 - 💬 Ask me about Web Application Security
 - 📫 How to reach me: t.me/sleeplessowls
 - ⚡ Fun fact: Every PRO was once a NOOB !
@@ -20,6 +20,5 @@
   7.  brute
   8.  notes
   9.  java_mysqlconnector
-  10. aiswaryaelectricals
-  11. penguinlips_jar
-  12. penguinlips
+  10. penguinlips_jar
+  11. penguinlips
