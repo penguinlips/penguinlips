@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**penguinlips/penguinlips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Penguinlips
 - 🌱 I’m currently learning Networking and Web Application Pentesting
@@ -28,4 +24,4 @@ Here are some ideas to get you started:
   11. penguinlips
   12. brute
   
--->
+  
