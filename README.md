@@ -11,10 +11,15 @@
 
 - 🔰Repository List🔰
 
-  1.  the_wreck                   5.  ansan_mathew                    9.  aiswaryaelectricals
-  2.  
-  3.  activator                   6.  temporary                       10. penguinlips_jar
-  4.  
-  5.  htc-one-x9-index            7.  notes                           11. penguinlips
-  6.  
-  7.  java                        8.  java_mysqlconnector             12. brute
+  1.  the_wreck
+  2.  activator
+  3.  htc-one-x9-index
+  4.  java
+  5.  ansan_mathew
+  6.  temporary
+  7.  brute
+  8.  notes
+  9.  java_mysqlconnector
+  10. aiswaryaelectricals
+  11. penguinlips_jar
+  12. penguinlips
