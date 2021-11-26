@@ -20,7 +20,7 @@
   7.  brute
   8.  notes
   9.  java_mysqlconnector
-  10. <hidden>
+  10. !hidden
   11. penguinlips_jar
   12. penguinlips
   13. updates
